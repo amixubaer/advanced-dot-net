@@ -7,10 +7,10 @@
 <form action="/student/create" method="post">
 
     Name : <input type="text" name="Name" class="form-control">
-    @Html.ValidationMessageFor(m => m.Name, "", new { @class="text-danger"})
+    @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
     Dob:<input type="date" name="Dob" class="form-control">
     Gender: <input type="radio" name="Gender" value="Male">Male
     <input type="radio" name="Gender" value="Female">Female
     <input type="submit" value="Add" class="btn btn-primary">
-
 </form>
+
