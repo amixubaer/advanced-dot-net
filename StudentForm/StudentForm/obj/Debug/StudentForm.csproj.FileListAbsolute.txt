@@ -232,6 +232,5 @@ F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\bin\Antlr3.Run
 F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.AssemblyReference.cache
 F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache
-F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CopyComplete
 F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\obj\Debug\StudentForm.dll
 F:\10th Semester\Mid\Advance dot Net\CODE\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
